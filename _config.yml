@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Francesco Di Salvo'
-title_short:         'F. Di Salvo'
+title_short:         'Francesco'
 description:	       ''
 author:              'Francesco Di Salvo'
 
