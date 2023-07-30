@@ -1,9 +1,13 @@
 <head>
+  <!-- In gh-pages index.html do not recognize the title (Home) -->
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title_short }}
-    {% else %}
+    
+    {% if page.title == "Publications"%}
       {{ page.title }} | {{ site.title_short }}
+    {% elsif page.title == "Writing"%}
+      {{ page.title }} | {{ site.title_short }}
+    {% else %}
+      {{ site.title_short }}
     {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
