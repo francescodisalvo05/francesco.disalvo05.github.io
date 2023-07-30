@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'About',   url: 'about.html'}
+- {name: 'Home',   url: ''}
 - {name: 'Publications', url: 'publications.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'CV', url: 'assets/pdf/CV.pdf'}
