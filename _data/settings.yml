@@ -9,11 +9,12 @@ google-ID: 'G-CLJLSV8LJW'
 menu:
 - {name: 'Home',   url: ''}
 - {name: 'Publications', url: 'publications'}
-#- {name: 'Writing', url: 'writing.html'}
+- {name: 'Input', url: 'input'}
 - {name: 'CV', url: 'assets/pdf/CV.pdf'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=zOASNTUAAAAJ&hl=en'}
 - {icon: 'github',     link: 'https://github.com/francescodisalvo05'}
 - {icon: 'linkedin',   link: 'http://www.linkedin.com/in/francescodisalvo-pa/'}
 - {icon: 'twitter',    link: 'https://twitter.com/francescodis_'}
