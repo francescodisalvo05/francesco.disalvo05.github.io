@@ -7,7 +7,7 @@ toc: true
 
 <small>Last updated: September 16, 2023</small>
 
-I'm a product of my input: the books I read, the blogs I follow, and the shows I watch. To give you a glimpse into my world, here are a non-exhaustive list!
+I'm a product of my input: the books I read, the blogs I follow, and the shows I watch. To give you a glimpse into my world, here is a non-exhaustive list!
 
 ## Books
 
