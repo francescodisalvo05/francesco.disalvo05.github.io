@@ -48,8 +48,8 @@ During high school, I was a big fan of Netflix series, and my top three favorite
     * [Mr. Rip][mr-rip-yt] (ITA) 
     * [Pietro Michelangeli][pm-yt] (ITA) 
 * **Traveling**
-    * [Nicolo' Balini #1][nb-yt-2] (ITA)
-    * [Nicolo' Balini #2][nb-yt-1] (ITA)
+    * [Nicolò Balini #1][nb-yt-2] (ITA)
+    * [Nicolò Balini #2][nb-yt-1] (ITA)
     * [Expedition Evans][ee-yt]
 * **Science**
     * [Barbascura X][barba-yt] (ITA) 
@@ -68,7 +68,7 @@ During high school, I was a big fan of Netflix series, and my top three favorite
 [mr-rip-yt]: https://www.youtube.com/@mr_rip
 [pm-yt]: https://www.youtube.com/@PietroMichelangeli
 [nb-yt-1]: https://www.youtube.com/channel/UCB9-VTcQkAh-J7FpcinYj2A
-[nb-yt-2]: https://www.youtube.com/@safariumano
+[nb-yt-2]: https://www.youtube.com/channel/UCjMIGhRExEB-Q6ZyEr1gBeA
 [barba-yt]: https://www.youtube.com/c/barbascurax
 [tmp-yt]: https://www.youtube.com/@TwoMinutePapers
 [veritasium-yt]: https://www.youtube.com/@veritasium
