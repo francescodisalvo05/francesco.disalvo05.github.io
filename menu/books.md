@@ -5,6 +5,8 @@ permalink: /books
 toc: true
 ---
 
+<small>Last updated: September 16, 2023</small>
+
 ## 2023
 
 * Riccardino, *Andrea Camilleri*
