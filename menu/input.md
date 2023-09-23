@@ -9,12 +9,16 @@ toc: true
 
 I'm a product of my input: the books I read, the blogs I follow, and the shows I watch. To give you a glimpse into my world, here is a non-exhaustive list!
 
+## Research
+
+Inspired by [Vitaly Kurin](https://yobibyte.github.io/pages/productive-grad-school.html#productive-grad-school), I'm sharing [here](/input/phd-resources) the resources I find useful for my research. Do you also find them useful? Is there anything else you think I should read? Please let me know, let's <s>struggle</s> grow together in our journey!
+
 ## Books
 
 I started reading seriously in 2020, thanks to a yearly reading goal. Since then, I've read more and more books, with some on-off periods.
 I've primarily been reading non-fiction books, but I recently got into sci-fi thanks to Dark Matter and The Martian! Below there are my top 3 books in each genre. 
 
-> Full list of books [here](./books). I'm always looking for new books to read, so please share your favorites with me!
+> Full list of books [here](/input/books). I'm always looking for new books to read, so please share your favorites with me!
 
 * **Non-fiction**
     * Deep Work, *Cal Newport*
