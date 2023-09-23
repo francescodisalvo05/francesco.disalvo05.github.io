@@ -111,3 +111,42 @@
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
 }
+
+/* PUBLICATIONS */
+
+
+#tbPublications {
+  background-color: #ffffff;
+  border: none;
+}
+
+#tbPublications > tr, td {
+  border-color: #ffffff;
+  width: 100%;
+}
+
+.table-img {
+  width: 30%;
+}
+
+.table-text {
+  width: 70%;
+}
+
+.paper-title {
+  font-size: medium;
+  text-decoration: bold;
+  margin: 0;
+}
+
+.paper-authors {
+  font-size: small;
+  text-decoration: none;
+  margin: 0;
+}
+
+.paper-conference {
+  font-size: small;
+  font-style: italic;
+  margin: 0;
+}

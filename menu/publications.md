@@ -4,8 +4,28 @@ title: Publications
 permalink: /publications
 ---
 
-S. Doerrich, **F. Di Salvo**, C. Ledig, "unORANIC: Unsupervised Orthogonalization of Anatomy and Image-Characteristic Features", <u>Machine Learning in Medical Imaging 2023</u> (MICCAI Workshop) [[paper][unORANIC-paper]{:target="_blank"}] [[code][unORANIC-code]{:target="_blank"}]
 
+<table id="tbPublications" cellspacing="0" cellpadding="0">
 
-[unORANIC-paper]: https://arxiv.org/abs/2308.15507
-[unORANIC-code]: https://github.com/sdoerrich97/unORANIC
+    <!-- MIDL 2023 (MICCAI W)-->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2308.15507" target="_blank">
+                <img src="assets/img-publications/2023-mlmi-miccai.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>unORANIC: Unsupervised Orthogonalization of Anatomy and Image-Characteristic Features</b> <br />
+            </p>
+            <p class="paper-authors">
+                Sebastian Doerrich, <b>Francesco Di Salvo</b>, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                Machine Learning in Medical Imaging 2023 (MICCAI Workshop)
+            </p>
+            [<a href="https://arxiv.org/abs/2308.15507" target="_blank">paper</a>] [<a href="https://github.com/sdoerrich97/unORANIC" target="_blank">code</a>]
+        </td>
+    </tr>
+
+</table>
