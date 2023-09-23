@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My input
+title: Input
 permalink: /input
 toc: true
 ---
