@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-permalink: /books
+permalink: /input/books
 toc: true
 ---
 
