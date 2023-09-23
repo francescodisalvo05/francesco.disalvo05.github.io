@@ -7,7 +7,7 @@ toc: false
 
 <small>Last updated: September 23, 2023</small>
 
-Inspired by [Vitaly Kurin](https://yobibyte.github.io/pages/productive-grad-school.html#productive-grad-school), I'm sharing the resources I find useful for my research. Do you also find them useful? Is there anything else you think I should read? Please let me know, let's <s>struggle</s> grow together in our journey!
+Inspired by [Vitaly Kurin](https://yobibyte.github.io/pages/productive-grad-school.html#productive-grad-school){:target="_blank"}, I'm sharing the resources I find useful for my research. Do you also find them useful? Is there anything else you think I should read? Please let me know, let's <s>struggle</s> grow together in our journey!
 
 **Legend**
 * [B] Blogpost
