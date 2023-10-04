@@ -3,7 +3,7 @@
   {% if words < 180 %}
     < 1'
   {% elsif words < 360 %}
-    1 minute read
+      1'
   {% else %}
     {{ words | divided_by:180 }}'
   {% endif %}
@@ -13,7 +13,7 @@
   {% if words < 180 %}
     < 1'
   {% elsif words < 360 %}
-    1'
+      1'
   {% else %}
     {{ words | divided_by:180 }}'
   {% endif %}
