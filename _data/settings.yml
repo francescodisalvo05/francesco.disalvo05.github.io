@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-CLJLSV8LJW'
 
 menu:
-- {name: 'About',   url: 'about'}
+#- {name: 'About',   url: 'index'}
 - {name: 'Publications', url: 'publications'}
 - {name: 'Input', url: 'input'}
 - {name: 'Blog', url: 'blog'}
