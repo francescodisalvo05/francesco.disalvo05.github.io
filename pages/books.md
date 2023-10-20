@@ -5,10 +5,12 @@ permalink: /input/books
 toc: true
 ---
 
-<small>Last updated: September 16, 2023</small>
+<small>Last updated: October 20, 2023</small>
 
 ## 2023
 
+* **Dieci cose che ho imparato**, *Piero Angela*
+* The Hitchhiker's Guide to the Galaxy (Book 1), *Douglas Adams*
 * Riccardino, *Andrea Camilleri*
 * **The Martian**, *Andy Weir*
 * **Dark Matter**, *Blake Crouch*
