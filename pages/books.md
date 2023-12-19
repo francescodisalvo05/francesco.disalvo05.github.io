@@ -5,10 +5,12 @@ permalink: /input/books
 toc: true
 ---
 
-<small>Last updated: October 20, 2023</small>
+<small>Last updated: December 19, 2023</small>
 
 ## 2023
 
+* **A man's search for meaning**, *Viktor Frankl*
+* **The obstacle is the way**, *Ryan Holiday*
 * **Dieci cose che ho imparato**, *Piero Angela*
 * The Hitchhiker's Guide to the Galaxy (Book 1), *Douglas Adams*
 * Riccardino, *Andrea Camilleri*
