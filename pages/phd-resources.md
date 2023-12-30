@@ -11,6 +11,8 @@ Inspired by [Vitaly Kurin](https://yobibyte.github.io/pages/productive-grad-scho
 
 **Legend**
 * [B] Blogpost
+* [K] Book
+* [D] Document
 * [P] Paper
 * [S] Slides
 
@@ -19,10 +21,16 @@ Inspired by [Vitaly Kurin](https://yobibyte.github.io/pages/productive-grad-scho
 ## General
 * [B] [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/){:target="_blank"}, Andrej Karpathy (2016)
 * [B] [Principles of effective research](https://michaelnielsen.org/blog/principles-of-effective-research/){:target="_blank"}, Michael Nielsen (2004)
+* [K] [The DPhil Grind](https://yobibyte.github.io/dphil_grind.html), Vitaly Kurin (Last update, 2023)
 
 ## Writing
 * [P] [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/pii/S1878764915001606#bib0080){:target="_blank"}, Ecarnot, F., et al., European Geriatric Medicine (2015)
 * [S] [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf){:target="_blank"}, Bill Freeman (2014)
+* [B] [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html), Jennifer Widom (2006) 
+
+## Reviewing
+* [D] [How to Write a Review for a Scientific or Mathematical Paper](https://cs.adelaide.edu.au/~yval/pdfs/MattRoughanWriteReview.pdf), Matthew Roughan (2019)
+* [S] [How to be a good reviewer?](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf), CVPR Tutorial (2022)
 
 ## Visualizing
 * [P] [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7){:target="_blank"}, Crameri, F., et al., Nature Communications (2020)
