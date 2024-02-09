@@ -12,7 +12,7 @@ Previously, I worked on [Bayesian uncertainty on dedicated breast-CT scans][thes
 
 Finally, I also interned at [NATO][nato] and [AIKO][aiko], where I worked on anomaly detection on underwater communications and visual odometry on planetary-like environments, respectively.
 
-### Teaching
+<!-- ### Teaching
 
 * Master project in Robust Machine Learning [WS23/24]
 * Deep Learning (Exercises) [WS23/24]
@@ -20,7 +20,7 @@ Finally, I also interned at [NATO][nato] and [AIKO][aiko], where I worked on ano
 
 ### Supervised students
 
-* David Tafler (ongoing)
+* David Tafler (ongoing) 
 
 [uni-bamberg]: https://www.uni-bamberg.de/en/ai/chair-of-explainable-machine-learning/
 [cl]: http://www.christianledig.com/
