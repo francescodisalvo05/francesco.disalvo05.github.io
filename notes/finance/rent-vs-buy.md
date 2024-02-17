@@ -15,7 +15,7 @@ date: 2023/11/26
 </iframe>
 </center>
 
-**TL;DR**: while renting might seem like a waste of money, **buying** a house **comes with** significant **unrecoverable costs** as well. According to Ben Felix (and his geographical biase), this accounts for an **yearly 5%** of the property value, that includes:
+**TL;DR**: while renting might seem like a waste of money, **buying** a house **comes with** significant **unrecoverable costs** as well. According to Ben Felix (and his geographical bias), this accounts for a **yearly 5%** of the property value, that includes:
 
 * 1% for **property taxes**
 * 1% for **maintenance costs**
