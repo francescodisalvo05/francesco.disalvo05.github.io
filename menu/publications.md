@@ -4,8 +4,28 @@ title: Publications
 permalink: /publications
 ---
 
-
 <table id="tbPublications" cellspacing="0" cellpadding="0">
+
+    <!-- ISBI 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2308.15507" target="_blank">
+                <img src="assets/img-publications/2024-isbi.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>Integrating kNN with Foundation Models for Adaptable and Privacy-aware image classification</b> <br />
+            </p>
+            <p class="paper-authors">
+                Sebastian Doerrich*, Tobias Archut*, <b>Francesco Di Salvo</b>, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                International Symposium on Biomedical Imaging 2024 (ISBI)
+            </p>
+            [<a href="#" target="_blank">paper</a>] [<a href="#" target="_blank">code</a>]
+        </td>
+    </tr>
 
     <!-- MIDL 2023 (MICCAI W)-->
     <tr>
