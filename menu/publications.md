@@ -9,7 +9,7 @@ permalink: /publications
     <!-- ISBI 2024 -->
     <tr>
         <td class="table-img">
-            <a href="https://arxiv.org/abs/2308.15507" target="_blank">
+            <a href="https://arxiv.org/abs/2402.12500" target="_blank">
                 <img src="assets/img-publications/2024-isbi.png" width="285px" style="box-shadow: 4px 4px 8px #888">
             </a>
         </td>
@@ -23,7 +23,7 @@ permalink: /publications
             <p class="paper-conference">
                 International Symposium on Biomedical Imaging 2024 (ISBI)
             </p>
-            [<a href="#" target="_blank">paper</a>] [<a href="#" target="_blank">code</a>]
+            [<a href="https://arxiv.org/abs/2402.12500" target="_blank">paper</a>] [<a href="https://github.com/TobArc/privacy-aware-image-classification-with-kNN" target="_blank">code</a>]
         </td>
     </tr>
 
