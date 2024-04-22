@@ -5,10 +5,11 @@ permalink: /notes/books
 toc: true
 ---
 
-<small><code>Last updated: March 28, 2024</code></small>
+<small><code>Last updated: April 22, 2024</code></small>
 
 ## 2024
 
+* Norwegian Wood, *Haruki Murakami*
 * **The Art of Thinking Clearly**, *Rolf Dobelli*
 * **Feel-Good Productivity**, *Ali Abdaal*
 * PhD Grind, *Philip J. Guo*
