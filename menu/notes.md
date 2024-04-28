@@ -13,9 +13,6 @@ hide_post_date: True
 ---
 
 [~/finance/](/notes/finance) <br />
-[~/health/](/notes/health) <br />
-[~/reflections/](/notes/reflections) <br />
-[~/science/](/notes/science) <br />
 [~/sport/](/notes/sport) <br />
 
 ---
