@@ -4,6 +4,35 @@ title: Publications
 permalink: /publications
 ---
 
+# Preprint
+
+<table id="tbPublications" cellspacing="0" cellpadding="0">
+
+    <!-- ArXiv 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2404.15786" target="_blank">
+                <img src="assets/img-publications/2024-arxiv-rethinking.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>Rethinking Model Prototyping through the MedMNIST+ Dataset Collection</b> <br />
+            </p>
+            <p class="paper-authors">
+                Sebastian Doerrich, <b>Francesco Di Salvo</b>, Julius Brockmann, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                ArXiv preprint, 2024
+            </p>
+            [<a href="https://arxiv.org/abs/2404.15786" target="_blank">paper</a>] [<a href="https://github.com/sdoerrich97/rethinking-model-prototyping-MedMNISTPlus" target="_blank">code</a>]
+        </td>
+    </tr>
+
+</table>
+
+# Publications
+
 <table id="tbPublications" cellspacing="0" cellpadding="0">
 
     <!-- ISBI 2024 -->
