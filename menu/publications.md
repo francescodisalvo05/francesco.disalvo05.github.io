@@ -4,9 +4,30 @@ title: Publications
 permalink: /publications
 ---
 
-# Preprint
+# Preprints
 
 <table id="tbPublications" cellspacing="0" cellpadding="0">
+
+    <!-- ArXiv 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2404.15786" target="_blank">
+                <img src="assets/img-publications/2024-arxiv-medmnistc.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions</b> <br />
+            </p>
+            <p class="paper-authors">
+                <b>Francesco Di Salvo</b>, Sebastian Doerrich, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                ArXiv preprint, 2024
+            </p>
+            [<a href="https://arxiv.org/pdf/2406.17536" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/medmnistc-api" target="_blank">code</a>]
+        </td>
+    </tr>
 
     <!-- ArXiv 2024 -->
     <tr>
@@ -34,6 +55,28 @@ permalink: /publications
 # Publications
 
 <table id="tbPublications" cellspacing="0" cellpadding="0">
+
+    <!-- MICCAI 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="#">
+                <img src="assets/img-publications/2024-miccai.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization</b> <br />
+            </p>
+            <p class="paper-authors">
+                Sebastian Doerrich, <b>Francesco Di Salvo</b>, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                International Conference on Medical Image Computing and Computer Assisted Intervention 2024 (MICCAI)
+            </p>
+            <!--[<a href="#" target="_blank">paper</a>] [<a href="#" target="_blank">code</a>]-->
+            [paper] [code]
+        </td>
+    </tr>
 
     <!-- ISBI 2024 -->
     <tr>
