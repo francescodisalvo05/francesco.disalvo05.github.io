@@ -23,7 +23,7 @@ I've primarily been reading non-fiction books, but I recently got into sci-fi th
 
 * **Non-fiction**
     * Deep Work, *Cal Newport*
-    * Atomic habits, *James Clear*
+    * Atomic Habits, *James Clear*
     * How to win friends and influence people, *Dale Carnegie*
 * **Sci-Fi**
     * Dark Matter, *Blake Crouch*
@@ -38,7 +38,7 @@ I've primarily been reading non-fiction books, but I recently got into sci-fi th
 
 Some evenings, I like to find inspiration on the web by reading long-form essays from my favorite blogs.
 
-* **Phisolophy**
+* **Philosophy**
     * [Paul Graham][pg-blog]
     * [Lawrence Yeo][ly-blog] (More To That) 
     * [Alexey Guzey][ag-blog]

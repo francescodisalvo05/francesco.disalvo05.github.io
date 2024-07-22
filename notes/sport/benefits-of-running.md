@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Investing in Emerging Markets, Ben Felix
+title: Benefits of Running
 permalink: /notes/sport/benefits-of-running
 date: 2023/10/04
 ---
