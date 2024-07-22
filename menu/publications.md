@@ -12,27 +12,6 @@ permalink: /publications
     <tr>
         <td class="table-img">
             <a href="https://arxiv.org/abs/2404.15786" target="_blank">
-                <img src="assets/img-publications/2024-arxiv-medmnistc.png" width="285px" style="box-shadow: 4px 4px 8px #888">
-            </a>
-        </td>
-        <td class="table-text">
-            <p class="paper-title">
-                <b>MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions</b> <br />
-            </p>
-            <p class="paper-authors">
-                <b>Francesco Di Salvo</b>, Sebastian Doerrich, Christian Ledig
-            </p>
-            <p class="paper-conference">
-                ArXiv preprint, 2024
-            </p>
-            [<a href="https://arxiv.org/pdf/2406.17536" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/medmnistc-api" target="_blank">code</a>]
-        </td>
-    </tr>
-
-    <!-- ArXiv 2024 -->
-    <tr>
-        <td class="table-img">
-            <a href="https://arxiv.org/abs/2404.15786" target="_blank">
                 <img src="assets/img-publications/2024-arxiv-rethinking.png" width="285px" style="box-shadow: 4px 4px 8px #888">
             </a>
         </td>
@@ -55,6 +34,48 @@ permalink: /publications
 # Publications
 
 <table id="tbPublications" cellspacing="0" cellpadding="0">
+
+    <!-- BMVC 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2404.15786" target="_blank">
+                <img src="assets/img-publications/2024-bmvc.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>Privacy-preserving datasets by capturing feature distributions with Conditional VAEs</b> <br />
+            </p>
+            <p class="paper-authors">
+                <b>Francesco Di Salvo</b>, David Tafler, Sebastian Doerrich, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                British Machine Vision Conference 2024 (BMVC)
+            </p>
+            [<a href="" target="_blank">paper</a>] [<a href="" target="_blank">code</a>]
+        </td>
+    </tr>
+
+    <!-- ADSMI @ MICCAI 2024 -->
+    <tr>
+        <td class="table-img">
+            <a href="https://arxiv.org/abs/2404.15786" target="_blank">
+                <img src="assets/img-publications/2024-adsmi-miccai-medmnistc.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions</b> <br />
+            </p>
+            <p class="paper-authors">
+                <b>Francesco Di Salvo</b>, Sebastian Doerrich, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                Advancing Data Solutions in Medical Imaging AI 2024 (ADSMI @ MICCAI)
+            </p>
+            [<a href="https://arxiv.org/pdf/2406.17536" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/medmnistc-api" target="_blank">code</a>]
+        </td>
+    </tr>
 
     <!-- MICCAI 2024 -->
     <tr>
