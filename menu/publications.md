@@ -52,7 +52,7 @@ permalink: /publications
             <p class="paper-conference">
                 British Machine Vision Conference 2024 (BMVC)
             </p>
-            [<a href="" target="_blank">paper</a>] [<a href="" target="_blank">code</a>]
+            [<a href="https://arxiv.org/abs/2408.00639" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/cvae-anonymization" target="_blank">code</a>]
         </td>
     </tr>
 
