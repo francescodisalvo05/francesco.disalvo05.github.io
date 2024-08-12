@@ -5,10 +5,12 @@ permalink: /notes/books
 toc: true
 ---
 
-<small><code>Last updated: June 06, 2024</code></small>
+<small><code>Last updated: August 12, 2024</code></small>
 
 ## 2024
 
+* Slow Productivity, Cal Newport
+* **Outliers, The Story of Success**, *Malcolm Gladwell*
 * **Da Zero a Ultra: Il manuale completo del running**, *Roberto Martini*
 * Fa bene o fa male? Manuale di autodifesa alimentare, *Dario Bressanini*
 * Norwegian Wood, *Haruki Murakami*
