@@ -11,6 +11,27 @@ permalink: /publications
     <!-- ArXiv 2024 -->
     <tr>
         <td class="table-img">
+            <a href="https://arxiv.org/abs/2408.14358" target="_blank">
+                <img src="assets/img-publications/2024-arxiv-wann.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+            </a>
+        </td>
+        <td class="table-text">
+            <p class="paper-title">
+                <b>An Embedding is Worth a Thousand Noisy Labels</b> <br />
+            </p>
+            <p class="paper-authors">
+                <b>Francesco Di Salvo</b>, Sebastian Doerrich, Ines Rieger, Christian Ledig
+            </p>
+            <p class="paper-conference">
+                ArXiv preprint, 2024
+            </p>
+            [<a href="https://arxiv.org/abs/2408.14358" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/wann-noisy-labels" target="_blank">code</a>]
+        </td>
+    </tr>
+
+    <!-- ArXiv 2024 -->
+    <tr>
+        <td class="table-img">
             <a href="https://arxiv.org/abs/2404.15786" target="_blank">
                 <img src="assets/img-publications/2024-arxiv-rethinking.png" width="285px" style="box-shadow: 4px 4px 8px #888">
             </a>
