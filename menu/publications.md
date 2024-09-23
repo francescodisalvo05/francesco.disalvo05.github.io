@@ -92,7 +92,7 @@ permalink: /publications
                 <b>Francesco Di Salvo</b>, Sebastian Doerrich, Christian Ledig
             </p>
             <p class="paper-conference">
-                Advancing Data Solutions in Medical Imaging AI 2024 (ADSMI @ MICCAI)
+                Advancing Data Solutions in Medical Imaging AI 2024 (ADSMI @ MICCAI, Oral)
             </p>
             [<a href="https://arxiv.org/pdf/2406.17536" target="_blank">paper</a>] [<a href="https://github.com/francescodisalvo05/medmnistc-api" target="_blank">code</a>]
         </td>
@@ -116,7 +116,7 @@ permalink: /publications
                 International Conference on Medical Image Computing and Computer Assisted Intervention 2024 (MICCAI)
             </p>
             <!--[<a href="#" target="_blank">paper</a>] [<a href="#" target="_blank">code</a>]-->
-            [paper] [code]
+            [<a href="https://arxiv.org/abs/2407.02900" target="_blank">paper</a>] [<a href="https://github.com/sdoerrich97/vits-are-generative-models" target="_blank">code</a>]
         </td>
     </tr>
 
