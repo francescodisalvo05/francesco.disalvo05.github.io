@@ -5,7 +5,18 @@ permalink: /input/books
 toc: true
 ---
 
-<small>Last updated: December 19, 2023</small>
+<small><code>Last updated: August 12, 2024</code></small>
+
+## 2024
+
+* Slow Productivity, Cal Newport
+* **Outliers, The Story of Success**, *Malcolm Gladwell*
+* **Da Zero a Ultra: Il manuale completo del running**, *Roberto Martini*
+* Fa bene o fa male? Manuale di autodifesa alimentare, *Dario Bressanini*
+* Norwegian Wood, *Haruki Murakami*
+* **The Art of Thinking Clearly**, *Rolf Dobelli*
+* **Feel-Good Productivity**, *Ali Abdaal*
+* PhD Grind, *Philip J. Guo*
 
 ## 2023
 

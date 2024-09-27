@@ -1,7 +1,7 @@
 ---
 layout: notes
 title: Input
-permalink: /notes/input
+permalink: /pages/input
 date: 2023/11/23
 ---
 
@@ -56,7 +56,6 @@ During high school, I was a big fan of Netflix series, and my top three favorite
 * **Traveling**
     * [Nicolò Balini #1][nb-yt-2] (ITA)
     * [Nicolò Balini #2][nb-yt-1] (ITA)
-    * [Expedition Evans][ee-yt]
 * **Science**
     * [Barbascura X][barba-yt] (ITA) 
     * [Two Minute Papers][tmp-yt] 
