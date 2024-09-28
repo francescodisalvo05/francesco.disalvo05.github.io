@@ -6,9 +6,6 @@ permalink: /news
 
 \* indicates first-author papers.
 
-* [11/2024] Attended BMVC 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-* [09/2024] Attended MICCAI 🇲🇦
-* [09/2024] Gave a talk [[pdf](#),[pptx](#)] at [BioMedIA](https://biomedia.doc.ic.ac.uk/) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 * [09/2024] Attended the [M2L](https://www.m2lschool.org/) Summer School 🇮🇹
 * [09/2024] One [paper](https://arxiv.org/abs/2409.12276) accepted at RROW @ BMVC
 * [07/2024] One [paper](https://arxiv.org/abs/2408.00639)\* accepted at BMVC
