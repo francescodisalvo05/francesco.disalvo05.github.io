@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
-# Preprints
+Full list on [Google Scholar](https://scholar.google.com/citations?user=zOASNTUAAAAJ&hl=en).
+
+## Preprints
 
 <table id="tbPublications" cellspacing="0" cellpadding="0">
 
@@ -52,7 +54,7 @@ permalink: /publications
 
 </table>
 
-# Publications
+## Publications
 
 <table id="tbPublications" cellspacing="0" cellpadding="0">
 
@@ -141,7 +143,7 @@ permalink: /publications
         </td>
     </tr>
 
-    <!-- MIDL 2023 (MICCAI W)-->
+    <!-- MLMI 2023 (MICCAI W)-->
     <tr>
         <td class="table-img">
             <a href="https://arxiv.org/abs/2308.15507" target="_blank">
