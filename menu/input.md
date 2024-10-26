@@ -5,7 +5,7 @@ permalink: /input
 toc: true
 ---
 
-<small>Last updated: September 23, 2023</small>
+<small>Last updated: October 26, 2024</small>
 
 I'm a product of my input: the books I read, the blogs I follow, and the shows I watch. To give you a glimpse into my world, here is a non-exhaustive list!
 
@@ -41,8 +41,10 @@ Some evenings, I like to find inspiration on the web by reading long-form essays
     * [Paul Graham][pg-blog]
     * [Lawrence Yeo][ly-blog] (More To That) 
     * [Alexey Guzey][ag-blog]
+    * [Mark Verber][mark-verber-blog] (+ travelling and minimalism)
 * **Finance**
     * [Mr. Rip][mr-rip-blog]
+
 
 ## YouTube
 
@@ -51,10 +53,9 @@ During high school, I was a big fan of Netflix series, and my top three favorite
 * **Finance**
     * [Mr. Rip][mr-rip-yt] (ITA) 
     * [Pietro Michelangeli][pm-yt] (ITA) 
-* **Traveling**
+* **Travelling**
     * [Nicolò Balini #1][nb-yt-2] (ITA)
     * [Nicolò Balini #2][nb-yt-1] (ITA)
-    * [Expedition Evans][ee-yt]
 * **Science**
     * [Barbascura X][barba-yt] (ITA) 
     * [Two Minute Papers][tmp-yt] 
@@ -62,6 +63,9 @@ During high school, I was a big fan of Netflix series, and my top three favorite
     * [3Blue1Brown][3b1b-yt]
 * **News**
     * [Breaking Italy][bi-yt] (ITA)
+* **Life**
+    * [Project Happiness][ph-yt]
+    * [The Pillow][tp-yt]
 
 
 
@@ -79,3 +83,6 @@ During high school, I was a big fan of Netflix series, and my top three favorite
 [3b1b-yt]: https://www.youtube.com/@3blue1brown
 [bi-yt]: https://www.youtube.com/@breakingitaly
 [ee-yt]: https://www.youtube.com/@ExpeditionEvans  
+[mark-verber-blog]: https://verber.com/
+[ph-yt]: https://www.youtube.com/@ProgettoHappiness
+[tp-yt]: https://www.youtube.com/@THE.PILLOW
