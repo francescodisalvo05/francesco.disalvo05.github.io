@@ -6,6 +6,7 @@ permalink: /news
 
 \* indicates first-author papers.
 
+* [11/2024] Attended BMVC 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 * [10/2024] Attended MICCAI 🇲🇦
     *  Won the *Best Paper Award Runner Up* at ADSMI @ MICCAI! 
 * [09/2024] Gave a [talk](https://docs.google.com/presentation/d/1D6EKwM8ugd7WRPm-e_CuzmYyGrUt4wW8ROtWS8iHpfg/edit?usp=sharing) at [BioMedIA](https://biomedia.doc.ic.ac.uk/), Imperial College London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
