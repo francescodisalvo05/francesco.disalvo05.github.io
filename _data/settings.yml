@@ -12,7 +12,7 @@ menu:
 - {name: 'News', url: 'news'}
 - {name: 'Input', url: 'input'}
 # - {name: 'Notes', url: 'notes'}
-- {name: 'CV', url: 'assets/pdf/CV.pdf'}
+- {name: 'CV', url: 'assets/pdf/202412_FrancescoDiSalvo_Resume.pdf'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
