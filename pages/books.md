@@ -5,10 +5,14 @@ permalink: /input/books
 toc: true
 ---
 
-<small><code>Last updated: August 12, 2024</code></small>
+<small><code>Last updated: December 21, 2024</code></small>
 
 ## 2024
 
+* Indistractable, Nir Eyal
+* Racconti scritti da donne nude, Stefano Rapone
+* Minimalism: Live a Meaningful Life, Joshua Fields Millburn
+* Slow Productivity, Cal Newport
 * Slow Productivity, Cal Newport
 * **Outliers, The Story of Success**, *Malcolm Gladwell*
 * **Da Zero a Ultra: Il manuale completo del running**, *Roberto Martini*
