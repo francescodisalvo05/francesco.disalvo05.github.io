@@ -13,7 +13,6 @@ toc: true
 * Racconti scritti da donne nude, Stefano Rapone
 * Minimalism: Live a Meaningful Life, Joshua Fields Millburn
 * Slow Productivity, Cal Newport
-* Slow Productivity, Cal Newport
 * **Outliers, The Story of Success**, *Malcolm Gladwell*
 * **Da Zero a Ultra: Il manuale completo del running**, *Roberto Martini*
 * Fa bene o fa male? Manuale di autodifesa alimentare, *Dario Bressanini*
